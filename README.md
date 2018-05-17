@@ -1,5 +1,4 @@
-# CS3083 Project
-Yining Wang, Mohammad Rafi, Lyu Longtao, Johnson Mei, Jun Woo Shin
+# Evaluate
 
 ## Running
 You will need to have Docker and docker-compose installed.
